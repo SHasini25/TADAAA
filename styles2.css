@@ -35,6 +35,12 @@ h2{
   font-style:italic;
 }
 
+.conclu{
+  font-size:150%;
+  color: white;
+
+}
+
 /*create a navigation bar*/
 /* Add a black background color to the top navigation */
 .topnav {
