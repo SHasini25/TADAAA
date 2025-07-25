@@ -36,15 +36,20 @@ h2{
 
 h3{
   color: white;
+  font-family: ;
+  font-size:140%;
+}
+
+.conclu{
+  font-size:150%;
+
 }
 
 .name{
   color:#d4556b;
 }
 
-.CONCLUSION{
-  color: black;
-}
+
 
 
 /*Search bar*/
